@@ -19,7 +19,13 @@ Total Sales
 Total Profit
 Top 5 Customers
 Charts and business insights
+
+
 🧠 Key Skills
 Data visualization
 Business intelligence dashboards
 Streamlit development
+
+HOW TO RUN Streamlit App (Task 5)
+streamlit run test.py
+streamlit run app.py
