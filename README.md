@@ -40,4 +40,4 @@ This repository contains my completed advanced Data Science & Analytics internsh
 - Streamlit
 
 ## Author
-Your Name
+Laiba Rehman
