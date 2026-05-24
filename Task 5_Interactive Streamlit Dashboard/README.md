@@ -28,4 +28,3 @@ Streamlit development
 
 HOW TO RUN Streamlit App (Task 5)
 streamlit run test.py
-streamlit run app.py
